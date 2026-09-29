@@ -1,0 +1,13 @@
+firecrawl-py
+pandas
+numpy
+scikit-learn
+transformers
+torch
+streamlit
+python-dotenv
+matplotlib
+seaborn
+wordcloud
+joblib
+tqdm
